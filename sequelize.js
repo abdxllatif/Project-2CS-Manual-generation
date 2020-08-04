@@ -57,8 +57,6 @@ sequelize.sync({ force: false })
     .then(() => {
     });
 
-
-
 module.exports = {
  Admins,Users,Clients,Entities,SubEntities,Groups,Plannings,Positions
 };
