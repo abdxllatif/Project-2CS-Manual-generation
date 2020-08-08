@@ -8,8 +8,8 @@ module.exports = (sequelize, type) => {
             autoIncrement: true
         },
         day : type.INTEGER,
-        start : type.STRING,
-        end : type.STRING,
+        start : type.TIME,
+        end : type.TIME,
 
     })
 };
