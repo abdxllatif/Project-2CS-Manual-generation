@@ -13,7 +13,7 @@
     "express": "^4.16.4",
     "http-errors": "~1.6.3",
     "install": "^0.13.0",
-    "jwks-rsa": "^1.8.0",
+    "jwks-rsa": "^3.0.0",
     "mysql2": "^2.1.0",
     "nodemon": "^2.0.4",
     "sequelize": "^5.21.5"
